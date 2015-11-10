@@ -1,6 +1,6 @@
 [user]
-	name = Rajesh Mathew
-	email = jrajesh@zeomega.com
+	name = 'xyz'
+	email = 'xyz@abc.com'
 [apply]
     whitespace = warn
 [alias]
